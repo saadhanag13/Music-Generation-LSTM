@@ -54,7 +54,7 @@ The model is designed using a **Sequential LSTM architecture** for next-note pre
 ## 📉 Loss Curve:
 The graph below shows the model loss decreasing steadily, indicating good learning progression:
 
-<img width="963" height="694" alt="image" src="https://github.com/user-attachments/assets/5a1c2be2-01db-4505-a8eb-13a9edf657fa" />
+<img width="550" height="400" alt="image" src="https://github.com/user-attachments/assets/5a1c2be2-01db-4505-a8eb-13a9edf657fa" />
 
 ## 📦 Installation
 
